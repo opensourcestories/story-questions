@@ -1,0 +1,14 @@
+name: Markdown linter
+
+on: [push, pull_request]
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout repo
+      uses: actions/checkout@v2
+      
+    - name: markdownlint-cli
+      uses: nosborn/github-action-markdown-cli@v3.0.1
+      with:
+        files: '**/*.md'
