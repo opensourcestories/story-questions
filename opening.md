@@ -9,3 +9,8 @@ technology)?
 * What is your favorite movie?
 * What was the first computer (or video) game you played?
 * What brings you joy at the moment?
+* What is your most exciting project or hobby right now?
+* What's a skill you picked up during your career that has nothing to do with your job?
+* What is your favorite text editor?
+* If someone were watching a movie about you, what is your movie's title and tagline?
+
